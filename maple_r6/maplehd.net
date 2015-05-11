@@ -1,588 +1,964 @@
-# EESchema Netlist Version 1.1 created  Wed 15 Jun 2011 01:35:57 PM PDT
-(
- ( /4DECD296/4DECD600 PSHBTN BUT1 BUT
-  ( 1 /STM32/BOOT0 )
-  ( 2 N-000050 )
-  ( 3 /STM32/BOOT0 )
-  ( 4 N-000050 )
- )
- ( /4DECD296/4DECD6C9 SM0402 C1 33pF
-  ( 1 GND )
-  ( 2 N-000069 )
- )
- ( /4DECD296/4DECD6D3 SM0402 C2 33pF
-  ( 1 GND )
-  ( 2 N-000070 )
- )
- ( /4DECD284/4DECDEE4 SM0402 C3 1uF
-  ( 1 N-000014 )
-  ( 2 N-000010 )
- )
- ( /4DECD284/4DECD2B2 SM0402 C4 22uF
-  ( 1 VCC )
-  ( 2 GND )
- )
- ( /4DECD296/4DECD2E0 SM0402 C5 1uF
-  ( 1 VAA )
-  ( 2 GND )
- )
- ( /4DECD296/4DECD2E3 SM0402 C6 1uF
-  ( 1 VCC )
-  ( 2 GND )
- )
- ( /4DECD296/4DECD2E4 SM0402 C7 1uF
-  ( 1 VCC )
-  ( 2 GND )
- )
- ( /4DECD296/4DECD2E5 SM0402 C8 1uF
-  ( 1 VCC )
-  ( 2 GND )
- )
- ( /4DECD296/4DECD2FF SM0402 C9 47pF
-  ( 1 N-000049 )
-  ( 2 GND )
- )
- ( /4DECD296/4DECD2FE SM0402 C10 47pF
-  ( 1 N-000044 )
-  ( 2 GND )
- )
- ( /4DECD284/4DECE119 SM0402 C11 1uF
-  ( 1 N-000008 )
-  ( 2 GND )
- )
- ( /4DECD284/4DECD2B8 SM0402 C12 22uF
-  ( 1 N-000008 )
-  ( 2 GND )
- )
- ( /4DECD284/4DECD2B1 SM0402 C13 22uF
-  ( 1 VAA )
-  ( 2 GND )
- )
- ( /4DECD296/4DECDA22 LEDSM0603 D1 Blue
-  ( 1 N-000040 )
-  ( 2 GND )
- )
- ( /4DECD284/4DECE06C $noname$ D2 DIODE
-  ( 1 N-000006 )
-  ( 2 N-000007 )
- )
- ( /4DECD284/4DECE1B2 LEDSM0603 D3 Red
-  ( 1 VCC )
-  ( 2 N-000016 )
- )
- ( /4DECD284/4DECE1B7 LEDSM0603 D4 Green
-  ( 1 VCC )
-  ( 2 N-000004 )
- )
- ( /4DECD284/4DECE0C3 $noname$ External1 PWR_JACK
-  ( GND GND )
-  ( GNDB GND )
-  ( PWR N-000006 )
- )
- ( /4DECD284/4DECD2C6 $noname$ IC1 BQ24010DRC
-  ( 1 N-000013 )
-  ( 2 N-000013 )
-  ( 3 N-000005 )
-  ( 4 N-000015 )
-  ( 5 GND )
-  ( 6 N-000010 )
-  ( 7 ? )
-  ( 8 N-000009 )
-  ( 9 N-000014 )
-  ( 10 N-000014 )
-  ( PAD GND )
- )
- ( /4DECD284/4DECD2B0 $noname$ IC2 MCP1700T
-  ( 1 GND )
-  ( 2 N-000008 )
-  ( 3 VCC )
- )
- ( /4DECD284/4DECD2AF $noname$ IC3 MCP1700T
-  ( 1 GND )
-  ( 2 N-000008 )
-  ( 3 VAA )
- )
- ( /4DECD296/4DECD75D $noname$ J1-A1 CONN_8
-  ( 1 /STM32/0 )
-  ( 2 /STM32/1 )
-  ( 3 /STM32/2 )
-  ( 4 /STM32/3 )
-  ( 5 /STM32/4 )
-  ( 6 /STM32/5 )
-  ( 7 /STM32/6 )
-  ( 8 /STM32/7 )
- )
- ( /4DECD296/4DECD757 $noname$ J1-B1 CONN_8
-  ( 1 /STM32/0 )
-  ( 2 /STM32/1 )
-  ( 3 /STM32/2 )
-  ( 4 /STM32/3 )
-  ( 5 /STM32/4 )
-  ( 6 /STM32/5 )
-  ( 7 /STM32/6 )
-  ( 8 /STM32/7 )
- )
- ( /4DECD296/4DECDA63 PIN_ARRAY-6X1 J2 CONN_6
-  ( 1 /STM32/15 )
-  ( 2 /STM32/16 )
-  ( 3 /STM32/17 )
-  ( 4 /STM32/18 )
-  ( 5 /STM32/19 )
-  ( 6 /STM32/20 )
- )
- ( /4DECD296/4DECD971 $noname$ J3-A1 CONN_8
-  ( 1 /STM32/8 )
-  ( 2 /STM32/9 )
-  ( 3 /STM32/10 )
-  ( 4 /STM32/11 )
-  ( 5 /STM32/12 )
-  ( 6 /STM32/13 )
-  ( 7 GND )
-  ( 8 /STM32/14 )
- )
- ( /4DECD296/4DECD970 $noname$ J3-B1 CONN_8
-  ( 1 /STM32/8 )
-  ( 2 /STM32/9 )
-  ( 3 /STM32/10 )
-  ( 4 /STM32/11 )
-  ( 5 /STM32/12 )
-  ( 6 /STM32/13 )
-  ( 7 GND )
-  ( 8 /STM32/14 )
- )
- ( /4DECD296/4DECDE0C PIN_ARRAY-6X1 J4 CONN_6
-  ( 1 /STM32/JTAG-TRST )
-  ( 2 VCC )
-  ( 3 VAA )
-  ( 4 GND )
-  ( 5 GND )
-  ( 6 N-000008 )
- )
- ( /4DECD284/4DECE082 $noname$ JP1 CONN_2
-  ( 1 GND )
-  ( 2 N-000006 )
- )
- ( /4DECD296/4DECD308 $noname$ JTAG1 CONN_4X2
-  ( 1 /STM32/JTAG-TRST )
-  ( 2 VCC )
-  ( 3 /STM32/JTAG-TMS )
-  ( 4 /STM32/JTAG-TDI )
-  ( 5 /STM32/JTAG-TDO )
-  ( 6 /STM32/JTAG-TCK )
-  ( 7 GND )
-  ( 8 /STM32/JTAG-TRST )
- )
- ( /4DECD284/4DECDF8E $noname$ LIPO1 CONN_2
-  ( 1 GND )
-  ( 2 N-000014 )
- )
- ( /4DECD296/4DECD64F $noname$ M2 CONN_2
-  ( 1 /STM32/21 )
-  ( 2 /STM32/22 )
- )
- ( /4DECD296/4DECD693 $noname$ OSC1 8MHz
-  ( 1 N-000069 )
-  ( 3 N-000070 )
- )
- ( /4DECD284/4DECD2B7 $noname$ PWR1 CONN_4X2
-  ( 1 N-000008 )
-  ( 2 N-000013 )
-  ( 3 N-000008 )
-  ( 4 N-000014 )
-  ( 5 N-000008 )
-  ( 6 +5V )
-  ( 7 N-000008 )
-  ( 8 N-000007 )
- )
- ( /4DECD296/4DECD2F4 $noname$ Q2 NPN
-  ( 1 N-000047 )
-  ( 2 N-000046 )
-  ( 3 VCC )
- )
- ( /4DECD296/4DECD2FA $noname$ Q3 NPN
-  ( 1 GND )
-  ( 2 N-000048 )
-  ( 3 N-000046 )
- )
- ( /4DECD296/4DECD2EA SM0402 R1 1K
-  ( 1 N-000045 )
-  ( 2 GND )
- )
- ( /4DECD296/4DECD2ED SM0402 R2 10K
-  ( 1 /STM32/BOOT0 )
-  ( 2 GND )
- )
- ( /4DECD296/4DECD2E8 SM0402 R4 10K
-  ( 1 VCC )
-  ( 2 /STM32/RST )
- )
- ( /4DECD296/4DECD5C2 SM0402 R5 1K
-  ( 1 /STM32/BOOT0 )
-  ( 2 N-000022 )
- )
- ( /4DECD296/4DECD9C6 SM0402 R6 1K
-  ( 1 /STM32/13 )
-  ( 2 N-000040 )
- )
- ( /4DECD296/4DECD2F7 SM0402 R8 36K
-  ( 1 N-000046 )
-  ( 2 GND )
- )
- ( /4DECD296/4DECD2F3 SM0402 R9 10K
-  ( 1 +5V )
-  ( 2 N-000046 )
- )
- ( /4DECD296/4DECD2FC SM0402 R10 47K
-  ( 1 VCC )
-  ( 2 N-000048 )
- )
- ( /4DECD296/4DECD2FD SM0402 R12 1K
-  ( 1 N-000048 )
-  ( 2 /STM32/DISC )
- )
- ( /4DECD296/4DECD302 SM0402 R13 22
-  ( 1 N-000049 )
-  ( 2 /STM32/USBDM )
- )
- ( /4DECD296/4DECD303 SM0402 R14 22
-  ( 1 N-000044 )
-  ( 2 /STM32/USBDP )
- )
- ( /4DECD296/4DECD2F0 SM0402 R15 1.5K
-  ( 1 /STM32/USB_P )
-  ( 2 GND )
- )
- ( /4DECD296/4DECD2EF SM0402 R16 1.5K
-  ( 1 +5V )
-  ( 2 /STM32/USB_P )
- )
- ( /4DECD284/4DECDF59 SM0402 R18 1K
-  ( 1 N-000010 )
-  ( 2 GND )
- )
- ( /4DECD284/4DECE188 SM0402 R19 1K
-  ( 1 N-000005 )
-  ( 2 N-000016 )
- )
- ( /4DECD284/4DECE191 SM0402 R20 1K
-  ( 1 N-000015 )
-  ( 2 N-000004 )
- )
- ( /4DECD284/4DECDFDC SM0402 R22 10K
-  ( 1 N-000008 )
-  ( 2 N-000009 )
- )
- ( /4DECD284/4DECDFC4 SM0402 R23 10K
-  ( 1 N-000009 )
-  ( 2 GND )
- )
- ( /4DECD296/4DECD2F9 SM0402 R24 1.5K
-  ( 1 N-000047 )
-  ( 2 N-000044 )
- )
- ( /4DECD296/4DECD61F SM0402 R25 1K
-  ( 1 VCC )
-  ( 2 N-000050 )
- )
- ( /4DECD296/4DECD2E9 $noname$ RESET1 BUT
-  ( 1 N-000045 )
-  ( 2 /STM32/RST )
-  ( 3 N-000045 )
-  ( 4 /STM32/RST )
- )
- ( /4DECD296/4DECD307 $noname$ SV1 CONN_8X2
-  ( 1 GND )
-  ( 2 /STM32/37 )
-  ( 3 /STM32/36 )
-  ( 4 /STM32/35 )
-  ( 5 /STM32/34 )
-  ( 6 /STM32/33 )
-  ( 7 /STM32/32 )
-  ( 8 /STM32/31 )
-  ( 9 /STM32/30 )
-  ( 10 /STM32/29 )
-  ( 11 /STM32/28 )
-  ( 12 /STM32/27 )
-  ( 13 /STM32/26 )
-  ( 14 /STM32/25 )
-  ( 15 /STM32/24 )
-  ( 16 /STM32/23 )
- )
- ( /4DECD296/4DEE6020 $noname$ UC1 STM32F103RE
-  ( 1 VCC )
-  ( 2 /STM32/21 )
-  ( 3 /STM32/22 )
-  ( 4 /STM32/23 )
-  ( 5 N-000069 )
-  ( 6 N-000070 )
-  ( 7 /STM32/RST )
-  ( 8 /STM32/15 )
-  ( 9 /STM32/16 )
-  ( 10 /STM32/17 )
-  ( 11 /STM32/18 )
-  ( 12 GND )
-  ( 13 VAA )
-  ( 14 /STM32/2 )
-  ( 15 /STM32/3 )
-  ( 16 /STM32/1 )
-  ( 17 /STM32/0 )
-  ( 18 GND )
-  ( 19 VCC )
-  ( 20 /STM32/10 )
-  ( 21 /STM32/13 )
-  ( 22 /STM32/12 )
-  ( 23 /STM32/11 )
-  ( 24 /STM32/19 )
-  ( 25 /STM32/20 )
-  ( 26 /STM32/27 )
-  ( 27 /STM32/28 )
-  ( 28 GND )
-  ( 29 /STM32/29 )
-  ( 30 /STM32/30 )
-  ( 31 GND )
-  ( 32 VCC )
-  ( 33 /STM32/31 )
-  ( 34 /STM32/32 )
-  ( 35 /STM32/33 )
-  ( 36 /STM32/34 )
-  ( 37 /STM32/35 )
-  ( 38 /STM32/36 )
-  ( 39 /STM32/37 )
-  ( 40 N-000022 )
-  ( 41 /STM32/6 )
-  ( 42 /STM32/7 )
-  ( 43 /STM32/8 )
-  ( 44 N-000049 )
-  ( 45 N-000044 )
-  ( 46 /STM32/JTAG-TMS )
-  ( 47 GND )
-  ( 48 VCC )
-  ( 49 /STM32/JTAG-TCK )
-  ( 50 /STM32/JTAG-TDI )
-  ( 51 /STM32/26 )
-  ( 52 /STM32/USB_P )
-  ( 53 /STM32/DISC )
-  ( 54 /STM32/25 )
-  ( 55 /STM32/JTAG-TDO )
-  ( 56 /STM32/JTAG-TRST )
-  ( 57 /STM32/4 )
-  ( 58 /STM32/5 )
-  ( 59 /STM32/9 )
-  ( 60 /STM32/BOOT0 )
-  ( 61 /STM32/14 )
-  ( 62 /STM32/24 )
-  ( 63 GND )
-  ( 64 VCC )
- )
- ( /4DECD296/4DECD304 $noname$ USB1 USB
-  ( D+ /STM32/USBDP )
-  ( D- /STM32/USBDM )
-  ( GND GND )
-  ( VBUS +5V )
- )
-)
-*
-{ Allowed footprints by component:
-$component C1
- SM*
- C?
- C1-1
-$endlist
-$component C2
- SM*
- C?
- C1-1
-$endlist
-$component C3
- SM*
- C?
- C1-1
-$endlist
-$component C4
- SM*
- C?
- C1-1
-$endlist
-$component C5
- SM*
- C?
- C1-1
-$endlist
-$component C6
- SM*
- C?
- C1-1
-$endlist
-$component C7
- SM*
- C?
- C1-1
-$endlist
-$component C8
- SM*
- C?
- C1-1
-$endlist
-$component C9
- SM*
- C?
- C1-1
-$endlist
-$component C10
- SM*
- C?
- C1-1
-$endlist
-$component C11
- SM*
- C?
- C1-1
-$endlist
-$component C12
- SM*
- C?
- C1-1
-$endlist
-$component C13
- SM*
- C?
- C1-1
-$endlist
-$component D1
- LED-3MM
- LED-5MM
- LED-10MM
- LED-0603
- LED-0805
- LED-1206
- LEDV
-$endlist
-$component D2
- D?
- S*
-$endlist
-$component D3
- LED-3MM
- LED-5MM
- LED-10MM
- LED-0603
- LED-0805
- LED-1206
- LEDV
-$endlist
-$component D4
- LED-3MM
- LED-5MM
- LED-10MM
- LED-0603
- LED-0805
- LED-1206
- LEDV
-$endlist
-$component OSC1
- SM*
- C?
- C1-1
-$endlist
-$component R1
- R?
- SM0603
- SM0805
-$endlist
-$component R2
- R?
- SM0603
- SM0805
-$endlist
-$component R4
- R?
- SM0603
- SM0805
-$endlist
-$component R5
- R?
- SM0603
- SM0805
-$endlist
-$component R6
- R?
- SM0603
- SM0805
-$endlist
-$component R8
- R?
- SM0603
- SM0805
-$endlist
-$component R9
- R?
- SM0603
- SM0805
-$endlist
-$component R10
- R?
- SM0603
- SM0805
-$endlist
-$component R12
- R?
- SM0603
- SM0805
-$endlist
-$component R13
- R?
- SM0603
- SM0805
-$endlist
-$component R14
- R?
- SM0603
- SM0805
-$endlist
-$component R15
- R?
- SM0603
- SM0805
-$endlist
-$component R16
- R?
- SM0603
- SM0805
-$endlist
-$component R18
- R?
- SM0603
- SM0805
-$endlist
-$component R19
- R?
- SM0603
- SM0805
-$endlist
-$component R20
- R?
- SM0603
- SM0805
-$endlist
-$component R22
- R?
- SM0603
- SM0805
-$endlist
-$component R23
- R?
- SM0603
- SM0805
-$endlist
-$component R24
- R?
- SM0603
- SM0805
-$endlist
-$component R25
- R?
- SM0603
- SM0805
-$endlist
-$endfootprintlist
-}
+(export (version D)
+  (design
+    (source C:/git_bobc/maplehd/maple_r6/maplehd.sch)
+    (date "11/05/2015 11:24:16")
+    (tool "eeschema (2013-07-07 BZR 4022)-stable"))
+  (components
+    (comp (ref H102)
+      (value HOLE_RMC)
+      (libsource (lib RMC) (part HOLE_RMC))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 554F6219))
+    (comp (ref H101)
+      (value HOLE_RMC)
+      (libsource (lib RMC) (part HOLE_RMC))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 554F621F))
+    (comp (ref H104)
+      (value HOLE_RMC)
+      (libsource (lib RMC) (part HOLE_RMC))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 554F6243))
+    (comp (ref H103)
+      (value HOLE_RMC)
+      (libsource (lib RMC) (part HOLE_RMC))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 554F6249))
+    (comp (ref M101)
+      (value LOGO_OSHW)
+      (footprint OSHW_logo_2)
+      (libsource (lib RMC) (part LOGO_OSHW))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 554F631F))
+    (comp (ref UC1)
+      (value STM32F103RE)
+      (libsource (lib leaf) (part STM32F103RE))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DEE6020))
+    (comp (ref J4)
+      (value CONN_6)
+      (libsource (lib conn) (part CONN_6))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECDE0C))
+    (comp (ref J2)
+      (value CONN_6)
+      (libsource (lib conn) (part CONN_6))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECDA63))
+    (comp (ref D1)
+      (value D13)
+      (libsource (lib device) (part LED))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECDA22))
+    (comp (ref R6)
+      (value 1K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD9C6))
+    (comp (ref J3-A1)
+      (value CONN_8)
+      (libsource (lib conn) (part CONN_8))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD971))
+    (comp (ref J3-B1)
+      (value CONN_8)
+      (libsource (lib conn) (part CONN_8))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD970))
+    (comp (ref J1-A1)
+      (value CONN_8)
+      (libsource (lib conn) (part CONN_8))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD75D))
+    (comp (ref J1-B1)
+      (value CONN_8)
+      (libsource (lib conn) (part CONN_8))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD757))
+    (comp (ref C2)
+      (value 33pF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD6D3))
+    (comp (ref C1)
+      (value 33pF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD6C9))
+    (comp (ref OSC1)
+      (value 8MHz)
+      (libsource (lib leaf) (part OSC))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD693))
+    (comp (ref M2)
+      (value CONN_2)
+      (libsource (lib conn) (part CONN_2))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD64F))
+    (comp (ref R3)
+      (value 1K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD61F))
+    (comp (ref BUT1)
+      (value BUT)
+      (libsource (lib leaf) (part BUT))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD600))
+    (comp (ref R5)
+      (value 1K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD5C2))
+    (comp (ref JTAG1)
+      (value JTAG)
+      (libsource (lib conn) (part CONN_4X2))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD308))
+    (comp (ref SV1)
+      (value CONN_8X2)
+      (libsource (lib conn) (part CONN_8X2))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD307))
+    (comp (ref USB1)
+      (value USB)
+      (libsource (lib leaf) (part USB))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD304))
+    (comp (ref R14)
+      (value 22)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD303))
+    (comp (ref R13)
+      (value 22)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD302))
+    (comp (ref C9)
+      (value 47pF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2FF))
+    (comp (ref C10)
+      (value 47pF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2FE))
+    (comp (ref R12)
+      (value 1K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2FD))
+    (comp (ref R10)
+      (value 47K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2FC))
+    (comp (ref Q3)
+      (value NPN)
+      (libsource (lib device) (part NPN))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2FA))
+    (comp (ref R7)
+      (value 1.5K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2F9))
+    (comp (ref R8)
+      (value 36K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2F7))
+    (comp (ref Q2)
+      (value NPN)
+      (libsource (lib device) (part NPN))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2F4))
+    (comp (ref R9)
+      (value 10K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2F3))
+    (comp (ref R15)
+      (value 1.5K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2F0))
+    (comp (ref R16)
+      (value 1.5K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2EF))
+    (comp (ref R2)
+      (value 10K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2ED))
+    (comp (ref R1)
+      (value 1K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2EA))
+    (comp (ref RESET1)
+      (value RESET)
+      (libsource (lib leaf) (part BUT))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2E9))
+    (comp (ref R4)
+      (value 10K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2E8))
+    (comp (ref C8)
+      (value 1uF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2E5))
+    (comp (ref C7)
+      (value 1uF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2E4))
+    (comp (ref C6)
+      (value 1uF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2E3))
+    (comp (ref C5)
+      (value 1uF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /STM32/) (tstamps /4DECD296/))
+      (tstamp 4DECD2E0))
+    (comp (ref D4)
+      (value DONE)
+      (libsource (lib device) (part LED))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECE1B7))
+    (comp (ref D3)
+      (value CHRG)
+      (libsource (lib device) (part LED))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECE1B2))
+    (comp (ref R20)
+      (value 1K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECE191))
+    (comp (ref R19)
+      (value 1K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECE188))
+    (comp (ref C11)
+      (value 1uF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECE119))
+    (comp (ref External1)
+      (value EXT)
+      (libsource (lib leaf) (part PWR_JACK))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECE0C3))
+    (comp (ref JP1)
+      (value CONN_2)
+      (libsource (lib conn) (part CONN_2))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECE082))
+    (comp (ref D2)
+      (value DIODE)
+      (libsource (lib device) (part DIODE))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECE06C))
+    (comp (ref R22)
+      (value 10K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECDFDC))
+    (comp (ref R23)
+      (value 10K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECDFC4))
+    (comp (ref LIPO1)
+      (value "3.7V LiPo")
+      (libsource (lib conn) (part CONN_2))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECDF8E))
+    (comp (ref R18)
+      (value 1K)
+      (libsource (lib device) (part R))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECDF59))
+    (comp (ref C3)
+      (value 1uF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECDEE4))
+    (comp (ref IC1)
+      (value BQ24010DRC)
+      (libsource (lib leaf) (part BQ24010DRC))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECD2C6))
+    (comp (ref C12)
+      (value 22uF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECD2B8))
+    (comp (ref PWR1)
+      (value PWRSEL)
+      (libsource (lib conn) (part CONN_4X2))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECD2B7))
+    (comp (ref C4)
+      (value 22uF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECD2B2))
+    (comp (ref C13)
+      (value 22uF)
+      (libsource (lib device) (part C))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECD2B1))
+    (comp (ref IC2)
+      (value MCP1700T)
+      (libsource (lib leaf) (part MCP1700T))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECD2B0))
+    (comp (ref IC3)
+      (value MCP1700T)
+      (libsource (lib leaf) (part MCP1700T))
+      (sheetpath (names /Power/) (tstamps /4DECD284/))
+      (tstamp 4DECD2AF)))
+  (libparts
+    (libpart (lib leaf) (part BQ24010DRC)
+      (fields
+        (field (name Reference) BQ24010DRC)
+        (field (name Value) BQ24010DRC))
+      (pins
+        (pin (num 1) (name IN) (type BiDi))
+        (pin (num 2) (name VCC) (type BiDi))
+        (pin (num 3) (name STAT1) (type BiDi))
+        (pin (num 4) (name STAT2) (type BiDi))
+        (pin (num 5) (name VSS) (type BiDi))
+        (pin (num 6) (name ISET) (type BiDi))
+        (pin (num 7) (name !PG) (type BiDi))
+        (pin (num 8) (name TS) (type BiDi))
+        (pin (num 9) (name BAT) (type BiDi))
+        (pin (num 10) (name OUT) (type BiDi))
+        (pin (num PAD) (name PAD) (type BiDi))))
+    (libpart (lib leaf) (part BUT)
+      (fields
+        (field (name Reference) BUT)
+        (field (name Value) BUT))
+      (pins
+        (pin (num 1) (name 1) (type passive))
+        (pin (num 2) (name 2) (type passive))
+        (pin (num 3) (name 3) (type passive))
+        (pin (num 4) (name 4) (type passive))))
+    (libpart (lib leaf) (part MCP1700T)
+      (fields
+        (field (name Reference) MCP1700T)
+        (field (name Value) MCP1700T))
+      (pins
+        (pin (num 1) (name GND) (type BiDi))
+        (pin (num 2) (name VOUT) (type BiDi))
+        (pin (num 3) (name VIN) (type BiDi))))
+    (libpart (lib leaf) (part OSC)
+      (footprints
+        (fp SM*)
+        (fp C?)
+        (fp C1-1))
+      (fields
+        (field (name Reference) OSC)
+        (field (name Value) OSC))
+      (pins
+        (pin (num 1) (name 1) (type BiDi))
+        (pin (num 3) (name 3) (type BiDi))))
+    (libpart (lib leaf) (part PWR_JACK)
+      (fields
+        (field (name Reference) PWR_JACK)
+        (field (name Value) PWR_JACK))
+      (pins
+        (pin (num GND) (name GND) (type BiDi))
+        (pin (num GNDB) (name GNDB) (type BiDi))
+        (pin (num PWR) (name PWR) (type BiDi))))
+    (libpart (lib leaf) (part STM32F103RE)
+      (fields
+        (field (name Reference) U)
+        (field (name Value) STM32F103RE))
+      (pins
+        (pin (num 1) (name VBAT) (type BiDi))
+        (pin (num 2) (name PC13/TAMPER-RTC) (type BiDi))
+        (pin (num 3) (name PC14/OSC32_IN) (type BiDi))
+        (pin (num 4) (name PC15/OSC32_OUT) (type BiDi))
+        (pin (num 5) (name PD0/OSC_IN) (type BiDi))
+        (pin (num 6) (name PD1/OSC_OUT) (type BiDi))
+        (pin (num 7) (name NRST) (type BiDi))
+        (pin (num 8) (name PC0/ADC123_10) (type BiDi))
+        (pin (num 9) (name PC1/ADC123_11) (type BiDi))
+        (pin (num 10) (name PC2/ADC123_12) (type BiDi))
+        (pin (num 11) (name PC3/ADC123_13) (type BiDi))
+        (pin (num 12) (name VSSA) (type BiDi))
+        (pin (num 13) (name VDDA) (type BiDi))
+        (pin (num 14) (name PA0/WKUP/USART2_CTS/ADC123_0/T2_1/T5_1) (type BiDi))
+        (pin (num 15) (name PA1/USART2_RTS/ADC123_1/T5_2/T2_2) (type BiDi))
+        (pin (num 16) (name PA2/USART2_TX/ADC123_2/T5_3/T2_3) (type BiDi))
+        (pin (num 17) (name PA3/USART2_RX/ADC123_3/T5_4/T2_4) (type BiDi))
+        (pin (num 18) (name VSS_4) (type BiDi))
+        (pin (num 19) (name VDD_4) (type BiDi))
+        (pin (num 20) (name PA4/SPI1_NSS/USART2_CK/DAC_1/ADC12_4) (type BiDi))
+        (pin (num 21) (name PA5/SPI1_SCK/DAC_2/ADC12_5) (type BiDi))
+        (pin (num 22) (name PA6/SPI1_MISO/ADC12_6/T3_1) (type BiDi))
+        (pin (num 23) (name PA7/SPI1_MOSI/ADC12_7/T3_2) (type BiDi))
+        (pin (num 24) (name PC4/ADC12_14) (type BiDi))
+        (pin (num 25) (name PC5/ADC12_15) (type BiDi))
+        (pin (num 26) (name PB0/ADC12_8/T3_3) (type BiDi))
+        (pin (num 27) (name PB1/ADC12_9/T3_4) (type BiDi))
+        (pin (num 28) (name PB2/BOOT1) (type BiDi))
+        (pin (num 29) (name PB10/I2C2_SCL/USART3_TX) (type BiDi))
+        (pin (num 30) (name PB11/I2C2_SDA/USART3_RX) (type BiDi))
+        (pin (num 31) (name VSS_1) (type BiDi))
+        (pin (num 32) (name VDD_1) (type BiDi))
+        (pin (num 33) (name PB12/SPI2_NSS/I2C2_SMBA/USART3_CK) (type BiDi))
+        (pin (num 34) (name PB13/SPI2_SCK/USART3_CTS) (type BiDi))
+        (pin (num 35) (name PB14/SPI2_MISO/USART3_RTS) (type BiDi))
+        (pin (num 36) (name PB15/SPI2_MOSI) (type BiDi))
+        (pin (num 37) (name PC6/T8_1/SDIO_D6) (type BiDi))
+        (pin (num 38) (name PC7/T8_2/SDIO_D7) (type BiDi))
+        (pin (num 39) (name PC8/T8_3/SDIO_D0) (type BiDi))
+        (pin (num 40) (name PC9/T8_4/SDIO_D1) (type BiDi))
+        (pin (num 41) (name PA8/USART1_CK/T1_1) (type BiDi))
+        (pin (num 42) (name PA9/USART1_TX/T1_2) (type BiDi))
+        (pin (num 43) (name PA10/USART1_RX/T1_3) (type BiDi))
+        (pin (num 44) (name PA11/USART1_CTS/USBDM/CAN_RX/T1_4) (type BiDi))
+        (pin (num 45) (name PA12/USART1_RTS/USBDP/CAN_TX) (type BiDi))
+        (pin (num 46) (name PA13/JTAG_TMS) (type BiDi))
+        (pin (num 47) (name VSS_2) (type BiDi))
+        (pin (num 48) (name VDD_2) (type BiDi))
+        (pin (num 49) (name PA14/JTAG_TCK) (type BiDi))
+        (pin (num 50) (name PA15/JTAG_TDI/SPI3_NSS) (type BiDi))
+        (pin (num 51) (name PC10/UART4_TX/SDIO_D2) (type BiDi))
+        (pin (num 52) (name PC11/UART4_RX/SDIO_D3) (type BiDi))
+        (pin (num 53) (name PC12/UART5_TX/SDIO_CK) (type BiDi))
+        (pin (num 54) (name PD2/UART5_RX/SDIO_CMD) (type BiDi))
+        (pin (num 55) (name PB3/JTAG_TDO/SPI3_SCK) (type BiDi))
+        (pin (num 56) (name PB4/SPI3_MISO) (type BiDi))
+        (pin (num 57) (name PB5/I2C1_SMBA/SPI3_MOSI) (type BiDi))
+        (pin (num 58) (name PB6/I2C1_SCL/T4_1) (type BiDi))
+        (pin (num 59) (name PB7/I2C1_SDA/T4_2) (type BiDi))
+        (pin (num 60) (name BOOT0) (type BiDi))
+        (pin (num 61) (name PB8/T4_3/SDIO_D4) (type BiDi))
+        (pin (num 62) (name PB9/T4_4/SDIO_D5) (type BiDi))
+        (pin (num 63) (name VSS_3) (type BiDi))
+        (pin (num 64) (name VDD_3) (type BiDi))))
+    (libpart (lib leaf) (part USB)
+      (fields
+        (field (name Reference) USB)
+        (field (name Value) USB))
+      (pins
+        (pin (num D+) (name ~) (type output))
+        (pin (num D-) (name ~) (type output))
+        (pin (num GND) (name ~) (type BiDi))
+        (pin (num VBUS) (name ~) (type output))))
+    (libpart (lib device) (part C)
+      (description "Condensateur non polarise")
+      (footprints
+        (fp SM*)
+        (fp C?)
+        (fp C1-1))
+      (fields
+        (field (name Reference) C)
+        (field (name Value) C)
+        (field (name Footprint) ~)
+        (field (name Datasheet) ~))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))))
+    (libpart (lib device) (part DIODE)
+      (description "Diode simple")
+      (footprints
+        (fp D?)
+        (fp S*))
+      (fields
+        (field (name Reference) D)
+        (field (name Value) DIODE)
+        (field (name Footprint) ~)
+        (field (name Datasheet) ~))
+      (pins
+        (pin (num 1) (name A) (type passive))
+        (pin (num 2) (name K) (type passive))))
+    (libpart (lib device) (part LED)
+      (footprints
+        (fp LED-3MM)
+        (fp LED-5MM)
+        (fp LED-10MM)
+        (fp LED-0603)
+        (fp LED-0805)
+        (fp LED-1206)
+        (fp LEDV))
+      (fields
+        (field (name Reference) D)
+        (field (name Value) LED)
+        (field (name Footprint) ~)
+        (field (name Datasheet) ~))
+      (pins
+        (pin (num 1) (name A) (type passive))
+        (pin (num 2) (name K) (type passive))))
+    (libpart (lib device) (part NPN)
+      (docs transistors/bipolar/*.*)
+      (fields
+        (field (name Reference) Q)
+        (field (name Value) NPN)
+        (field (name Footprint) ~)
+        (field (name Datasheet) ~))
+      (pins
+        (pin (num 1) (name E) (type passive))
+        (pin (num 2) (name B) (type input))
+        (pin (num 3) (name C) (type passive))))
+    (libpart (lib device) (part R)
+      (description Resistance)
+      (footprints
+        (fp R?)
+        (fp SM0603)
+        (fp SM0805)
+        (fp R?-*)
+        (fp SM1206))
+      (fields
+        (field (name Reference) R)
+        (field (name Value) R)
+        (field (name Footprint) ~)
+        (field (name Datasheet) ~))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))))
+    (libpart (lib conn) (part CONN_2)
+      (description "Symbole general de connecteur")
+      (fields
+        (field (name Reference) P)
+        (field (name Value) CONN_2))
+      (pins
+        (pin (num 1) (name P1) (type passive))
+        (pin (num 2) (name PM) (type passive))))
+    (libpart (lib conn) (part CONN_4X2)
+      (description "Symbole general de connecteur")
+      (fields
+        (field (name Reference) P)
+        (field (name Value) CONN_4X2))
+      (pins
+        (pin (num 1) (name 1) (type passive))
+        (pin (num 2) (name 2) (type passive))
+        (pin (num 3) (name 3) (type passive))
+        (pin (num 4) (name 4) (type passive))
+        (pin (num 5) (name 5) (type passive))
+        (pin (num 6) (name 6) (type passive))
+        (pin (num 7) (name 7) (type passive))
+        (pin (num 8) (name 8) (type passive))))
+    (libpart (lib conn) (part CONN_6)
+      (description "ymbole general de connecteur")
+      (fields
+        (field (name Reference) P)
+        (field (name Value) CONN_6))
+      (pins
+        (pin (num 1) (name 1) (type passive))
+        (pin (num 2) (name 2) (type passive))
+        (pin (num 3) (name 3) (type passive))
+        (pin (num 4) (name 4) (type passive))
+        (pin (num 5) (name 5) (type passive))
+        (pin (num 6) (name 6) (type passive))))
+    (libpart (lib conn) (part CONN_8)
+      (description "Symbole general de connecteur")
+      (fields
+        (field (name Reference) P)
+        (field (name Value) CONN_8))
+      (pins
+        (pin (num 1) (name P1) (type passive))
+        (pin (num 2) (name P2) (type passive))
+        (pin (num 3) (name P3) (type passive))
+        (pin (num 4) (name P4) (type passive))
+        (pin (num 5) (name P5) (type passive))
+        (pin (num 6) (name P6) (type passive))
+        (pin (num 7) (name P7) (type passive))
+        (pin (num 8) (name P8) (type passive))))
+    (libpart (lib conn) (part CONN_8X2)
+      (description "ymbole general de connecteur")
+      (fields
+        (field (name Reference) P)
+        (field (name Value) CONN_8X2))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))
+        (pin (num 3) (name ~) (type passive))
+        (pin (num 4) (name ~) (type passive))
+        (pin (num 5) (name ~) (type passive))
+        (pin (num 6) (name ~) (type passive))
+        (pin (num 7) (name ~) (type passive))
+        (pin (num 8) (name ~) (type passive))
+        (pin (num 9) (name ~) (type passive))
+        (pin (num 10) (name ~) (type passive))
+        (pin (num 11) (name ~) (type passive))
+        (pin (num 12) (name ~) (type passive))
+        (pin (num 13) (name ~) (type passive))
+        (pin (num 14) (name ~) (type passive))
+        (pin (num 15) (name ~) (type passive))
+        (pin (num 16) (name ~) (type passive))))
+    (libpart (lib RMC) (part HOLE_RMC)
+      (fields
+        (field (name Reference) H)
+        (field (name Value) HOLE_RMC)
+        (field (name Footprint) ~)
+        (field (name Datasheet) ~)))
+    (libpart (lib RMC) (part LOGO_OSHW)
+      (footprints
+        (fp OSHW_logo_2))
+      (fields
+        (field (name Reference) M)
+        (field (name Value) LOGO_OSHW)
+        (field (name Footprint) OSHW_logo_2)
+        (field (name Datasheet) ~))))
+  (libraries
+    (library (logical leaf)
+      (uri ..\hardware-lib\leaf.lib))
+    (library (logical device)
+      (uri C:\Programs\KiCad\share\library\device.lib))
+    (library (logical conn)
+      (uri C:\Programs\KiCad\share\library\conn.lib))
+    (library (logical RMC)
+      (uri ..\KiCAD_Libraries\library\RMC.lib)))
+  (nets
+    (net (code 1) (name "")
+      (node (ref R22) (pin 2))
+      (node (ref R23) (pin 1))
+      (node (ref IC1) (pin 8)))
+    (net (code 2) (name "")
+      (node (ref R18) (pin 1))
+      (node (ref IC1) (pin 6))
+      (node (ref C3) (pin 2)))
+    (net (code 3) (name +5V)
+      (node (ref PWR1) (pin 6))
+      (node (ref USB1) (pin VBUS))
+      (node (ref R16) (pin 1))
+      (node (ref R9) (pin 1))
+      (node (ref J4) (pin 3)))
+    (net (code 4) (name "")
+      (node (ref IC1) (pin 2))
+      (node (ref IC1) (pin 1))
+      (node (ref PWR1) (pin 2)))
+    (net (code 5) (name VCC)
+      (node (ref JTAG1) (pin 7))
+      (node (ref R3) (pin 1))
+      (node (ref UC1) (pin 64))
+      (node (ref R4) (pin 1))
+      (node (ref Q2) (pin 3))
+      (node (ref C4) (pin 1))
+      (node (ref IC2) (pin 2))
+      (node (ref UC1) (pin 1))
+      (node (ref UC1) (pin 32))
+      (node (ref C6) (pin 1))
+      (node (ref R10) (pin 1))
+      (node (ref C8) (pin 1))
+      (node (ref D3) (pin 1))
+      (node (ref D4) (pin 1))
+      (node (ref J4) (pin 2))
+      (node (ref C7) (pin 1))
+      (node (ref UC1) (pin 19))
+      (node (ref UC1) (pin 48)))
+    (net (code 6) (name "")
+      (node (ref R19) (pin 2))
+      (node (ref D3) (pin 2)))
+    (net (code 7) (name "")
+      (node (ref R20) (pin 1))
+      (node (ref IC1) (pin 4)))
+    (net (code 8) (name "")
+      (node (ref JP1) (pin 2))
+      (node (ref External1) (pin PWR))
+      (node (ref D2) (pin 1)))
+    (net (code 9) (name VIN)
+      (node (ref J4) (pin 6))
+      (node (ref C11) (pin 1))
+      (node (ref R22) (pin 1))
+      (node (ref IC2) (pin 3))
+      (node (ref IC3) (pin 3))
+      (node (ref C12) (pin 1))
+      (node (ref PWR1) (pin 1))
+      (node (ref PWR1) (pin 3))
+      (node (ref PWR1) (pin 5))
+      (node (ref PWR1) (pin 7)))
+    (net (code 10) (name "")
+      (node (ref D2) (pin 2))
+      (node (ref PWR1) (pin 8)))
+    (net (code 11) (name "")
+      (node (ref IC1) (pin 3))
+      (node (ref R19) (pin 1)))
+    (net (code 12) (name "")
+      (node (ref D4) (pin 2))
+      (node (ref R20) (pin 2)))
+    (net (code 13) (name GND)
+      (node (ref D1) (pin 2))
+      (node (ref R1) (pin 2))
+      (node (ref R2) (pin 2))
+      (node (ref J3-A1) (pin 7))
+      (node (ref J3-B1) (pin 7))
+      (node (ref R8) (pin 2))
+      (node (ref UC1) (pin 12))
+      (node (ref UC1) (pin 31))
+      (node (ref Q3) (pin 1))
+      (node (ref UC1) (pin 63))
+      (node (ref C10) (pin 2))
+      (node (ref C5) (pin 2))
+      (node (ref C6) (pin 2))
+      (node (ref C7) (pin 2))
+      (node (ref C8) (pin 2))
+      (node (ref J4) (pin 5))
+      (node (ref J4) (pin 4))
+      (node (ref R15) (pin 2))
+      (node (ref C9) (pin 2))
+      (node (ref UC1) (pin 28))
+      (node (ref UC1) (pin 18))
+      (node (ref USB1) (pin GND))
+      (node (ref UC1) (pin 47))
+      (node (ref IC1) (pin PAD))
+      (node (ref C12) (pin 2))
+      (node (ref IC1) (pin 5))
+      (node (ref C11) (pin 2))
+      (node (ref IC3) (pin 1))
+      (node (ref R23) (pin 2))
+      (node (ref C13) (pin 2))
+      (node (ref IC2) (pin 1))
+      (node (ref LIPO1) (pin 1))
+      (node (ref R18) (pin 2))
+      (node (ref C4) (pin 2))
+      (node (ref JP1) (pin 1))
+      (node (ref External1) (pin GNDB))
+      (node (ref External1) (pin GND))
+      (node (ref C1) (pin 1))
+      (node (ref JTAG1) (pin 2))
+      (node (ref SV1) (pin 1))
+      (node (ref C2) (pin 1)))
+    (net (code 14) (name "")
+      (node (ref IC1) (pin 7)))
+    (net (code 15) (name VAA)
+      (node (ref C13) (pin 1))
+      (node (ref IC3) (pin 2))
+      (node (ref C5) (pin 1))
+      (node (ref UC1) (pin 13)))
+    (net (code 16) (name "")
+      (node (ref PWR1) (pin 4))
+      (node (ref IC1) (pin 9))
+      (node (ref IC1) (pin 10))
+      (node (ref LIPO1) (pin 2))
+      (node (ref C3) (pin 1)))
+    (net (code 17) (name /STM32/24)
+      (node (ref UC1) (pin 62))
+      (node (ref SV1) (pin 15)))
+    (net (code 18) (name /STM32/36)
+      (node (ref SV1) (pin 3))
+      (node (ref UC1) (pin 38)))
+    (net (code 19) (name /STM32/25)
+      (node (ref SV1) (pin 14))
+      (node (ref UC1) (pin 54)))
+    (net (code 20) (name /STM32/26)
+      (node (ref SV1) (pin 13))
+      (node (ref UC1) (pin 51)))
+    (net (code 21) (name /STM32/28)
+      (node (ref UC1) (pin 27))
+      (node (ref SV1) (pin 11)))
+    (net (code 22) (name /STM32/29)
+      (node (ref SV1) (pin 10))
+      (node (ref UC1) (pin 29)))
+    (net (code 23) (name /STM32/30)
+      (node (ref UC1) (pin 30))
+      (node (ref SV1) (pin 9)))
+    (net (code 24) (name /STM32/31)
+      (node (ref SV1) (pin 8))
+      (node (ref UC1) (pin 33)))
+    (net (code 25) (name /STM32/32)
+      (node (ref SV1) (pin 7))
+      (node (ref UC1) (pin 34)))
+    (net (code 26) (name /STM32/33)
+      (node (ref SV1) (pin 6))
+      (node (ref UC1) (pin 35)))
+    (net (code 27) (name /STM32/34)
+      (node (ref SV1) (pin 5))
+      (node (ref UC1) (pin 36)))
+    (net (code 28) (name /STM32/35)
+      (node (ref UC1) (pin 37))
+      (node (ref SV1) (pin 4)))
+    (net (code 29) (name /STM32/37)
+      (node (ref SV1) (pin 2))
+      (node (ref UC1) (pin 39)))
+    (net (code 30) (name /STM32/JTAG-TMS)
+      (node (ref UC1) (pin 46))
+      (node (ref JTAG1) (pin 6)))
+    (net (code 31) (name /STM32/JTAG-TDI)
+      (node (ref UC1) (pin 50))
+      (node (ref JTAG1) (pin 5)))
+    (net (code 32) (name /STM32/JTAG-TDO)
+      (node (ref UC1) (pin 55))
+      (node (ref JTAG1) (pin 4)))
+    (net (code 33) (name /STM32/JTAG-TCK)
+      (node (ref UC1) (pin 49))
+      (node (ref JTAG1) (pin 3)))
+    (net (code 34) (name /STM32/RST)
+      (node (ref J4) (pin 1))
+      (node (ref RESET1) (pin 2))
+      (node (ref RESET1) (pin 4))
+      (node (ref R4) (pin 2))
+      (node (ref UC1) (pin 7))
+      (node (ref JTAG1) (pin 1)))
+    (net (code 35) (name /STM32/JTAG-TRST)
+      (node (ref JTAG1) (pin 8))
+      (node (ref UC1) (pin 56)))
+    (net (code 36) (name /STM32/22)
+      (node (ref M2) (pin 2))
+      (node (ref UC1) (pin 3)))
+    (net (code 37) (name /STM32/DISC)
+      (node (ref UC1) (pin 53))
+      (node (ref R12) (pin 2)))
+    (net (code 38) (name "")
+      (node (ref C2) (pin 2))
+      (node (ref OSC1) (pin 3))
+      (node (ref UC1) (pin 6)))
+    (net (code 39) (name "")
+      (node (ref UC1) (pin 5))
+      (node (ref OSC1) (pin 1))
+      (node (ref C1) (pin 2)))
+    (net (code 40) (name /STM32/4)
+      (node (ref UC1) (pin 57))
+      (node (ref J1-B1) (pin 5))
+      (node (ref J1-A1) (pin 5)))
+    (net (code 41) (name /STM32/9)
+      (node (ref J3-A1) (pin 2))
+      (node (ref J3-B1) (pin 2))
+      (node (ref UC1) (pin 59)))
+    (net (code 42) (name /STM32/16)
+      (node (ref J2) (pin 2))
+      (node (ref UC1) (pin 9)))
+    (net (code 43) (name /STM32/18)
+      (node (ref J2) (pin 4))
+      (node (ref UC1) (pin 11)))
+    (net (code 44) (name /STM32/20)
+      (node (ref UC1) (pin 25))
+      (node (ref J2) (pin 6)))
+    (net (code 45) (name /STM32/3)
+      (node (ref J1-A1) (pin 4))
+      (node (ref J1-B1) (pin 4))
+      (node (ref UC1) (pin 15)))
+    (net (code 46) (name /STM32/0)
+      (node (ref J1-A1) (pin 1))
+      (node (ref UC1) (pin 17))
+      (node (ref J1-B1) (pin 1)))
+    (net (code 47) (name /STM32/13)
+      (node (ref R6) (pin 1))
+      (node (ref J3-A1) (pin 6))
+      (node (ref J3-B1) (pin 6))
+      (node (ref UC1) (pin 21)))
+    (net (code 48) (name /STM32/11)
+      (node (ref J3-A1) (pin 4))
+      (node (ref UC1) (pin 23))
+      (node (ref J3-B1) (pin 4)))
+    (net (code 49) (name /STM32/7)
+      (node (ref UC1) (pin 42))
+      (node (ref J1-B1) (pin 8))
+      (node (ref J1-A1) (pin 8)))
+    (net (code 50) (name "")
+      (node (ref RESET1) (pin 3))
+      (node (ref R1) (pin 1))
+      (node (ref RESET1) (pin 1)))
+    (net (code 51) (name /STM32/USBDP)
+      (node (ref USB1) (pin D+))
+      (node (ref R14) (pin 2)))
+    (net (code 52) (name /STM32/USBDM)
+      (node (ref USB1) (pin D-))
+      (node (ref R13) (pin 2)))
+    (net (code 53) (name /STM32/23)
+      (node (ref UC1) (pin 4))
+      (node (ref SV1) (pin 16)))
+    (net (code 54) (name "")
+      (node (ref Q2) (pin 1))
+      (node (ref R7) (pin 1)))
+    (net (code 55) (name "")
+      (node (ref R12) (pin 1))
+      (node (ref Q3) (pin 2))
+      (node (ref R10) (pin 2)))
+    (net (code 56) (name /STM32/BOOT0)
+      (node (ref R5) (pin 1))
+      (node (ref BUT1) (pin 1))
+      (node (ref BUT1) (pin 3))
+      (node (ref R2) (pin 1))
+      (node (ref UC1) (pin 60)))
+    (net (code 57) (name /STM32/USB_P)
+      (node (ref UC1) (pin 52))
+      (node (ref R15) (pin 1))
+      (node (ref R16) (pin 2)))
+    (net (code 58) (name /STM32/8)
+      (node (ref J3-A1) (pin 1))
+      (node (ref J3-B1) (pin 1))
+      (node (ref UC1) (pin 43)))
+    (net (code 59) (name /STM32/2)
+      (node (ref J1-A1) (pin 3))
+      (node (ref J1-B1) (pin 3))
+      (node (ref UC1) (pin 14)))
+    (net (code 60) (name /STM32/19)
+      (node (ref UC1) (pin 24))
+      (node (ref J2) (pin 5)))
+    (net (code 61) (name "")
+      (node (ref UC1) (pin 45))
+      (node (ref R7) (pin 2))
+      (node (ref C10) (pin 1))
+      (node (ref R14) (pin 1)))
+    (net (code 62) (name /STM32/1)
+      (node (ref J1-B1) (pin 2))
+      (node (ref J1-A1) (pin 2))
+      (node (ref UC1) (pin 16)))
+    (net (code 63) (name /STM32/27)
+      (node (ref UC1) (pin 26))
+      (node (ref SV1) (pin 12)))
+    (net (code 64) (name "")
+      (node (ref UC1) (pin 40))
+      (node (ref R5) (pin 2)))
+    (net (code 65) (name /STM32/21)
+      (node (ref M2) (pin 1))
+      (node (ref UC1) (pin 2)))
+    (net (code 66) (name /STM32/15)
+      (node (ref J2) (pin 1))
+      (node (ref UC1) (pin 8)))
+    (net (code 67) (name /STM32/17)
+      (node (ref UC1) (pin 10))
+      (node (ref J2) (pin 3)))
+    (net (code 68) (name /STM32/10)
+      (node (ref UC1) (pin 20))
+      (node (ref J3-B1) (pin 3))
+      (node (ref J3-A1) (pin 3)))
+    (net (code 69) (name /STM32/6)
+      (node (ref J1-A1) (pin 7))
+      (node (ref J1-B1) (pin 7))
+      (node (ref UC1) (pin 41)))
+    (net (code 70) (name /STM32/14)
+      (node (ref J3-A1) (pin 8))
+      (node (ref UC1) (pin 61))
+      (node (ref J3-B1) (pin 8)))
+    (net (code 71) (name /STM32/12)
+      (node (ref UC1) (pin 22))
+      (node (ref J3-A1) (pin 5))
+      (node (ref J3-B1) (pin 5)))
+    (net (code 72) (name "")
+      (node (ref R6) (pin 2))
+      (node (ref D1) (pin 1)))
+    (net (code 73) (name /STM32/5)
+      (node (ref UC1) (pin 58))
+      (node (ref J1-A1) (pin 6))
+      (node (ref J1-B1) (pin 6)))
+    (net (code 74) (name "")
+      (node (ref UC1) (pin 44))
+      (node (ref R13) (pin 1))
+      (node (ref C9) (pin 1)))
+    (net (code 75) (name "")
+      (node (ref Q3) (pin 3))
+      (node (ref Q2) (pin 2))
+      (node (ref R9) (pin 2))
+      (node (ref R8) (pin 1)))
+    (net (code 76) (name "")
+      (node (ref BUT1) (pin 4))
+      (node (ref R3) (pin 2))
+      (node (ref BUT1) (pin 2)))))
