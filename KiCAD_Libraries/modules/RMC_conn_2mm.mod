@@ -1,0 +1,8343 @@
+PCBNEW-LibModule-V1  15/11/2014 07:49:48
+# encoding utf-8
+Units mm
+$INDEX
+conn_2mm_1x2
+conn_2mm_1x3
+conn_2mm_1x4
+conn_2mm_1x5
+conn_2mm_1x6
+conn_2mm_1x7
+conn_2mm_1x8
+conn_2mm_1x9
+conn_2mm_1x10
+conn_2mm_1x11
+conn_2mm_1x12
+conn_2mm_1x13
+conn_2mm_1x14
+conn_2mm_1x15
+conn_2mm_1x16
+conn_2mm_1x17
+conn_2mm_1x18
+conn_2mm_1x19
+conn_2mm_1x20
+conn_2mm_1x21
+conn_2mm_1x22
+conn_2mm_1x23
+conn_2mm_1x24
+conn_2mm_1x25
+conn_2mm_1x26
+conn_2mm_1x27
+conn_2mm_1x28
+conn_2mm_1x29
+conn_2mm_1x30
+conn_2mm_1x31
+conn_2mm_1x32
+conn_2mm_1x33
+conn_2mm_1x34
+conn_2mm_1x35
+conn_2mm_1x36
+conn_2mm_2x2
+conn_2mm_2x3
+conn_2mm_2x4
+conn_2mm_2x5
+conn_2mm_2x6
+conn_2mm_2x7
+conn_2mm_2x8
+conn_2mm_2x9
+conn_2mm_2x10
+conn_2mm_2x11
+conn_2mm_2x12
+conn_2mm_2x13
+conn_2mm_2x14
+conn_2mm_2x15
+conn_2mm_2x16
+conn_2mm_2x17
+conn_2mm_2x18
+conn_2mm_2x19
+conn_2mm_2x20
+$ENDINDEX
+$MODULE conn_2mm_1x2
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x2
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x2"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 2 -1 -2 -1 0.15 21
+DS -2 -1 -2 1 0.15 21
+DS -2 1 2 1 0.15 21
+DS 2 1 2 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$ENDMODULE conn_2mm_1x2
+$MODULE conn_2mm_1x3
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x3
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x3"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 3 -1 -3 -1 0.15 21
+DS -3 -1 -3 1 0.15 21
+DS -3 1 3 1 0.15 21
+DS 3 1 3 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$ENDMODULE conn_2mm_1x3
+$MODULE conn_2mm_1x4
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x4
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x4"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 4 -1 -4 -1 0.15 21
+DS -4 -1 -4 1 0.15 21
+DS -4 1 4 1 0.15 21
+DS 4 1 4 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$ENDMODULE conn_2mm_1x4
+$MODULE conn_2mm_1x5
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x5
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x5"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 5 -1 -5 -1 0.15 21
+DS -5 -1 -5 1 0.15 21
+DS -5 1 5 1 0.15 21
+DS 5 1 5 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$ENDMODULE conn_2mm_1x5
+$MODULE conn_2mm_1x6
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x6
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x6"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 6 -1 -6 -1 0.15 21
+DS -6 -1 -6 1 0.15 21
+DS -6 1 6 1 0.15 21
+DS 6 1 6 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$ENDMODULE conn_2mm_1x6
+$MODULE conn_2mm_1x7
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x7
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x7"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 7 -1 -7 -1 0.15 21
+DS -7 -1 -7 1 0.15 21
+DS -7 1 7 1 0.15 21
+DS 7 1 7 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$ENDMODULE conn_2mm_1x7
+$MODULE conn_2mm_1x8
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x8
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x8"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 8 -1 -8 -1 0.15 21
+DS -8 -1 -8 1 0.15 21
+DS -8 1 8 1 0.15 21
+DS 8 1 8 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$ENDMODULE conn_2mm_1x8
+$MODULE conn_2mm_1x9
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x9
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x9"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 9 -1 -9 -1 0.15 21
+DS -9 -1 -9 1 0.15 21
+DS -9 1 9 1 0.15 21
+DS 9 1 9 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$ENDMODULE conn_2mm_1x9
+$MODULE conn_2mm_1x10
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x10
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x10"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 10 -1 -10 -1 0.15 21
+DS -10 -1 -10 1 0.15 21
+DS -10 1 10 1 0.15 21
+DS 10 1 10 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$ENDMODULE conn_2mm_1x10
+$MODULE conn_2mm_1x11
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x11
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x11"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 11 -1 -11 -1 0.15 21
+DS -11 -1 -11 1 0.15 21
+DS -11 1 11 1 0.15 21
+DS 11 1 11 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$ENDMODULE conn_2mm_1x11
+$MODULE conn_2mm_1x12
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x12
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x12"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 12 -1 -12 -1 0.15 21
+DS -12 -1 -12 1 0.15 21
+DS -12 1 12 1 0.15 21
+DS 12 1 12 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$ENDMODULE conn_2mm_1x12
+$MODULE conn_2mm_1x13
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x13
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x13"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 13 -1 -13 -1 0.15 21
+DS -13 -1 -13 1 0.15 21
+DS -13 1 13 1 0.15 21
+DS 13 1 13 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 0
+$EndPAD
+$ENDMODULE conn_2mm_1x13
+$MODULE conn_2mm_1x14
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x14
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x14"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 14 -1 -14 -1 0.15 21
+DS -14 -1 -14 1 0.15 21
+DS -14 1 14 1 0.15 21
+DS 14 1 14 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 0
+$EndPAD
+$ENDMODULE conn_2mm_1x14
+$MODULE conn_2mm_1x15
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x15
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x15"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 15 -1 -15 -1 0.15 21
+DS -15 -1 -15 1 0.15 21
+DS -15 1 15 1 0.15 21
+DS 15 1 15 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 0
+$EndPAD
+$ENDMODULE conn_2mm_1x15
+$MODULE conn_2mm_1x16
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x16
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x16"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 16 -1 -16 -1 0.15 21
+DS -16 -1 -16 1 0.15 21
+DS -16 1 16 1 0.15 21
+DS 16 1 16 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 0
+$EndPAD
+$ENDMODULE conn_2mm_1x16
+$MODULE conn_2mm_1x17
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x17
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x17"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 17 -1 -17 -1 0.15 21
+DS -17 -1 -17 1 0.15 21
+DS -17 1 17 1 0.15 21
+DS 17 1 17 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 0
+$EndPAD
+$ENDMODULE conn_2mm_1x17
+$MODULE conn_2mm_1x18
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x18
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x18"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 18 -1 -18 -1 0.15 21
+DS -18 -1 -18 1 0.15 21
+DS -18 1 18 1 0.15 21
+DS 18 1 18 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 0
+$EndPAD
+$ENDMODULE conn_2mm_1x18
+$MODULE conn_2mm_1x19
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x19
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x19"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 19 -1 -19 -1 0.15 21
+DS -19 -1 -19 1 0.15 21
+DS -19 1 19 1 0.15 21
+DS 19 1 19 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18 0
+$EndPAD
+$ENDMODULE conn_2mm_1x19
+$MODULE conn_2mm_1x20
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x20
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x20"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 20 -1 -20 -1 0.15 21
+DS -20 -1 -20 1 0.15 21
+DS -20 1 20 1 0.15 21
+DS 20 1 20 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19 0
+$EndPAD
+$ENDMODULE conn_2mm_1x20
+$MODULE conn_2mm_1x21
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x21
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x21"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 21 -1 -21 -1 0.15 21
+DS -21 -1 -21 1 0.15 21
+DS -21 1 21 1 0.15 21
+DS 21 1 21 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20 0
+$EndPAD
+$ENDMODULE conn_2mm_1x21
+$MODULE conn_2mm_1x22
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x22
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x22"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 22 -1 -22 -1 0.15 21
+DS -22 -1 -22 1 0.15 21
+DS -22 1 22 1 0.15 21
+DS 22 1 22 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21 0
+$EndPAD
+$ENDMODULE conn_2mm_1x22
+$MODULE conn_2mm_1x23
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x23
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x23"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 23 -1 -23 -1 0.15 21
+DS -23 -1 -23 1 0.15 21
+DS -23 1 23 1 0.15 21
+DS 23 1 23 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -22 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22 0
+$EndPAD
+$ENDMODULE conn_2mm_1x23
+$MODULE conn_2mm_1x24
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x24
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x24"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 24 -1 -24 -1 0.15 21
+DS -24 -1 -24 1 0.15 21
+DS -24 1 24 1 0.15 21
+DS 24 1 24 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -23 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 23 0
+$EndPAD
+$ENDMODULE conn_2mm_1x24
+$MODULE conn_2mm_1x25
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x25
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x25"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 25 -1 -25 -1 0.15 21
+DS -25 -1 -25 1 0.15 21
+DS -25 1 25 1 0.15 21
+DS 25 1 25 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -22 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22 0
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24 0
+$EndPAD
+$ENDMODULE conn_2mm_1x25
+$MODULE conn_2mm_1x26
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x26
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x26"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 26 -1 -26 -1 0.15 21
+DS -26 -1 -26 1 0.15 21
+DS -26 1 26 1 0.15 21
+DS 26 1 26 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -25 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -23 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21 0
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 23 0
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25 0
+$EndPAD
+$ENDMODULE conn_2mm_1x26
+$MODULE conn_2mm_1x27
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x27
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x27"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 27 -1 -27 -1 0.15 21
+DS -27 -1 -27 1 0.15 21
+DS -27 1 27 1 0.15 21
+DS 27 1 27 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -22 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20 0
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22 0
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24 0
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26 0
+$EndPAD
+$ENDMODULE conn_2mm_1x27
+$MODULE conn_2mm_1x28
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x28
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x28"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 28 -1 -28 -1 0.15 21
+DS -28 -1 -28 1 0.15 21
+DS -28 1 28 1 0.15 21
+DS 28 1 28 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -27 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -25 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -23 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19 0
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21 0
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 23 0
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25 0
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27 0
+$EndPAD
+$ENDMODULE conn_2mm_1x28
+$MODULE conn_2mm_1x29
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x29
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x29"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 29 -1 -29 -1 0.15 21
+DS -29 -1 -29 1 0.15 21
+DS -29 1 29 1 0.15 21
+DS 29 1 29 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -28 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -22 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18 0
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20 0
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22 0
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24 0
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26 0
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 28 0
+$EndPAD
+$ENDMODULE conn_2mm_1x29
+$MODULE conn_2mm_1x30
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x30
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x30"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 30 -1 -30 -1 0.15 21
+DS -30 -1 -30 1 0.15 21
+DS -30 1 30 1 0.15 21
+DS 30 1 30 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -27 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -25 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -23 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 0
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19 0
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21 0
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 23 0
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25 0
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27 0
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29 0
+$EndPAD
+$ENDMODULE conn_2mm_1x30
+$MODULE conn_2mm_1x31
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x31
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x31"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 31 -1 -31 -1 0.15 21
+DS -31 -1 -31 1 0.15 21
+DS -31 1 31 1 0.15 21
+DS 31 1 31 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -30 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -28 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -22 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 0
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18 0
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20 0
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22 0
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24 0
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26 0
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 28 0
+$EndPAD
+$PAD
+Sh "31" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30 0
+$EndPAD
+$ENDMODULE conn_2mm_1x31
+$MODULE conn_2mm_1x32
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x32
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x32"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 32 -1 -32 -1 0.15 21
+DS -32 -1 -32 1 0.15 21
+DS -32 1 32 1 0.15 21
+DS 32 1 32 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -31 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -27 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -25 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -23 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 0
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 0
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19 0
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21 0
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 23 0
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25 0
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27 0
+$EndPAD
+$PAD
+Sh "31" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29 0
+$EndPAD
+$PAD
+Sh "32" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 31 0
+$EndPAD
+$ENDMODULE conn_2mm_1x32
+$MODULE conn_2mm_1x33
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x33
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x33"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 33 -1 -33 -1 0.15 21
+DS -33 -1 -33 1 0.15 21
+DS -33 1 33 1 0.15 21
+DS 33 1 33 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -32 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -30 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -28 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -22 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 0
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 0
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18 0
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20 0
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22 0
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24 0
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26 0
+$EndPAD
+$PAD
+Sh "31" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 28 0
+$EndPAD
+$PAD
+Sh "32" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30 0
+$EndPAD
+$PAD
+Sh "33" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 32 0
+$EndPAD
+$ENDMODULE conn_2mm_1x33
+$MODULE conn_2mm_1x34
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x34
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x34"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 34 -1 -34 -1 0.15 21
+DS -34 -1 -34 1 0.15 21
+DS -34 1 34 1 0.15 21
+DS 34 1 34 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -33 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -31 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -27 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -25 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -23 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 0
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 0
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 0
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19 0
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21 0
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 23 0
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25 0
+$EndPAD
+$PAD
+Sh "31" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27 0
+$EndPAD
+$PAD
+Sh "32" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29 0
+$EndPAD
+$PAD
+Sh "33" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 31 0
+$EndPAD
+$PAD
+Sh "34" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 33 0
+$EndPAD
+$ENDMODULE conn_2mm_1x34
+$MODULE conn_2mm_1x35
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x35
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x35"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 35 -1 -35 -1 0.15 21
+DS -35 -1 -35 1 0.15 21
+DS -35 1 35 1 0.15 21
+DS 35 1 35 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -34 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -32 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -30 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -28 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -26 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -24 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -22 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -20 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 0
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 0
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 0
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18 0
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 20 0
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 22 0
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24 0
+$EndPAD
+$PAD
+Sh "31" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26 0
+$EndPAD
+$PAD
+Sh "32" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 28 0
+$EndPAD
+$PAD
+Sh "33" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 30 0
+$EndPAD
+$PAD
+Sh "34" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 32 0
+$EndPAD
+$PAD
+Sh "35" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 34 0
+$EndPAD
+$ENDMODULE conn_2mm_1x35
+$MODULE conn_2mm_1x36
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_1x36
+Sc 0
+AR
+Op 0 0 0
+T0 0 2 1 1 0 0.15 N V 21 N "conn_2mm_1x36"
+T1 0 -2 1 1 0 0.15 N V 21 N "VAL**"
+DS 36 -1 -36 -1 0.15 21
+DS -36 -1 -36 1 0.15 21
+DS -36 1 36 1 0.15 21
+DS 36 1 36 -1 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -35 0
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -33 0
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -31 0
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -29 0
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -27 0
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -25 0
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -23 0
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21 0
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19 0
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 0
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 0
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 0
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 0
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 0
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 0
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 0
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 0
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 0
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 0
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 0
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 0
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 0
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 0
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19 0
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21 0
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 23 0
+$EndPAD
+$PAD
+Sh "31" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 25 0
+$EndPAD
+$PAD
+Sh "32" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 27 0
+$EndPAD
+$PAD
+Sh "33" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29 0
+$EndPAD
+$PAD
+Sh "34" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 31 0
+$EndPAD
+$PAD
+Sh "35" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 33 0
+$EndPAD
+$PAD
+Sh "36" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 35 0
+$EndPAD
+$ENDMODULE conn_2mm_1x36
+$MODULE conn_2mm_2x2
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x2
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x2"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 2 -2 -2 -2 0.15 21
+DS -2 -2 -2 2 0.15 21
+DS -2 2 2 2 0.15 21
+DS 2 2 2 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x2
+$MODULE conn_2mm_2x3
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x3
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x3"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 3 -2 -3 -2 0.15 21
+DS -3 -2 -3 2 0.15 21
+DS -3 2 3 2 0.15 21
+DS 3 2 3 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x3
+$MODULE conn_2mm_2x4
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x4
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x4"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 4 -2 -4 -2 0.15 21
+DS -4 -2 -4 2 0.15 21
+DS -4 2 4 2 0.15 21
+DS 4 2 4 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x4
+$MODULE conn_2mm_2x5
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x5
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x5"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 5 -2 -5 -2 0.15 21
+DS -5 -2 -5 2 0.15 21
+DS -5 2 5 2 0.15 21
+DS 5 2 5 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x5
+$MODULE conn_2mm_2x6
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x6
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x6"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 6 -2 -6 -2 0.15 21
+DS -6 -2 -6 2 0.15 21
+DS -6 2 6 2 0.15 21
+DS 6 2 6 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x6
+$MODULE conn_2mm_2x7
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x7
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x7"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 7 -2 -7 -2 0.15 21
+DS -7 -2 -7 2 0.15 21
+DS -7 2 7 2 0.15 21
+DS 7 2 7 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x7
+$MODULE conn_2mm_2x8
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x8
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x8"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 8 -2 -8 -2 0.15 21
+DS -8 -2 -8 2 0.15 21
+DS -8 2 8 2 0.15 21
+DS 8 2 8 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x8
+$MODULE conn_2mm_2x9
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x9
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x9"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 9 -2 -9 -2 0.15 21
+DS -9 -2 -9 2 0.15 21
+DS -9 2 9 2 0.15 21
+DS 9 2 9 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 1
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 -1
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x9
+$MODULE conn_2mm_2x10
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x10
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x10"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 10 -2 -10 -2 0.15 21
+DS -10 -2 -10 2 0.15 21
+DS -10 2 10 2 0.15 21
+DS 10 2 10 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 1
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 1
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 -1
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 -1
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x10
+$MODULE conn_2mm_2x11
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x11
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x11"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 11 -2 -11 -2 0.15 21
+DS -11 -2 -11 2 0.15 21
+DS -11 2 11 2 0.15 21
+DS 11 2 11 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 1
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 1
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 1
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 -1
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 -1
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 -1
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x11
+$MODULE conn_2mm_2x12
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x12
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x12"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 12 -2 -12 -2 0.15 21
+DS -12 -2 -12 2 0.15 21
+DS -12 2 12 2 0.15 21
+DS 12 2 12 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 1
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 1
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 1
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 1
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 -1
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 -1
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 -1
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 -1
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x12
+$MODULE conn_2mm_2x13
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x13
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x13"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 13 -2 -13 -2 0.15 21
+DS -13 -2 -13 2 0.15 21
+DS -13 2 13 2 0.15 21
+DS 13 2 13 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 1
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 1
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 1
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 1
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 1
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 -1
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 -1
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 -1
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 -1
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 -1
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x13
+$MODULE conn_2mm_2x14
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x14
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x14"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 14 -2 -14 -2 0.15 21
+DS -14 -2 -14 2 0.15 21
+DS -14 2 14 2 0.15 21
+DS 14 2 14 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 1
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 1
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 1
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 1
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 1
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 1
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -1
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 -1
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 -1
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 -1
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 -1
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 -1
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x14
+$MODULE conn_2mm_2x15
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x15
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x15"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 15 -2 -15 -2 0.15 21
+DS -15 -2 -15 2 0.15 21
+DS -15 2 15 2 0.15 21
+DS 15 2 15 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 1
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 1
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 1
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 1
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 1
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 1
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 -1
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 -1
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 -1
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 -1
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 -1
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 -1
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x15
+$MODULE conn_2mm_2x16
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x16
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x16"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 16 -2 -16 -2 0.15 21
+DS -16 -2 -16 2 0.15 21
+DS -16 2 16 2 0.15 21
+DS 16 2 16 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 1
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 1
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 1
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 1
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 1
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 1
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 1
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 1
+$EndPAD
+$PAD
+Sh "31" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -1
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -1
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 -1
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 -1
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 -1
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 -1
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 -1
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 -1
+$EndPAD
+$PAD
+Sh "32" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x16
+$MODULE conn_2mm_2x17
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x17
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x17"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 17 -2 -17 -2 0.15 21
+DS -17 -2 -17 2 0.15 21
+DS -17 2 17 2 0.15 21
+DS 17 2 17 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 1
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 1
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 1
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 1
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 1
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 1
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 1
+$EndPAD
+$PAD
+Sh "31" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 1
+$EndPAD
+$PAD
+Sh "33" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 -1
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 -1
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 -1
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 -1
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 -1
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 -1
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 -1
+$EndPAD
+$PAD
+Sh "32" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 -1
+$EndPAD
+$PAD
+Sh "34" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x17
+$MODULE conn_2mm_2x18
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x18
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x18"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 18 -2 -18 -2 0.15 21
+DS -18 -2 -18 2 0.15 21
+DS -18 2 18 2 0.15 21
+DS 18 2 18 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 1
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 1
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 1
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 1
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 1
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 1
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 1
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 1
+$EndPAD
+$PAD
+Sh "31" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 1
+$EndPAD
+$PAD
+Sh "33" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 1
+$EndPAD
+$PAD
+Sh "35" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 -1
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -1
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -1
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 -1
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 -1
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 -1
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 -1
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 -1
+$EndPAD
+$PAD
+Sh "32" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 -1
+$EndPAD
+$PAD
+Sh "34" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 -1
+$EndPAD
+$PAD
+Sh "36" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x18
+$MODULE conn_2mm_2x19
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x19
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x19"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 19 -2 -19 -2 0.15 21
+DS -19 -2 -19 2 0.15 21
+DS -19 2 19 2 0.15 21
+DS 19 2 19 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 1
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 1
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 1
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 1
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 1
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 1
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 1
+$EndPAD
+$PAD
+Sh "31" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 1
+$EndPAD
+$PAD
+Sh "33" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 1
+$EndPAD
+$PAD
+Sh "35" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 1
+$EndPAD
+$PAD
+Sh "37" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -18 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -14 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -4 -1
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2 -1
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2 -1
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 4 -1
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6 -1
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8 -1
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10 -1
+$EndPAD
+$PAD
+Sh "32" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 12 -1
+$EndPAD
+$PAD
+Sh "34" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 14 -1
+$EndPAD
+$PAD
+Sh "36" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16 -1
+$EndPAD
+$PAD
+Sh "38" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 18 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x19
+$MODULE conn_2mm_2x20
+Po 0 0 0 15 5467059C 00000000 ~~
+Li conn_2mm_2x20
+Sc 0
+AR
+Op 0 0 0
+T0 0 3 1 1 0 0.15 N V 21 N "conn_2mm_2x20"
+T1 0 -3 1 1 0 0.15 N V 21 N "VAL**"
+DS 20 -2 -20 -2 0.15 21
+DS -20 -2 -20 2 0.15 21
+DS -20 2 20 2 0.15 21
+DS 20 2 20 -2 0.15 21
+$PAD
+Sh "1" R 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19 1
+$EndPAD
+$PAD
+Sh "3" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 1
+$EndPAD
+$PAD
+Sh "5" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 1
+$EndPAD
+$PAD
+Sh "7" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 1
+$EndPAD
+$PAD
+Sh "9" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 1
+$EndPAD
+$PAD
+Sh "11" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 1
+$EndPAD
+$PAD
+Sh "13" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 1
+$EndPAD
+$PAD
+Sh "15" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 1
+$EndPAD
+$PAD
+Sh "17" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 1
+$EndPAD
+$PAD
+Sh "19" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 1
+$EndPAD
+$PAD
+Sh "21" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 1
+$EndPAD
+$PAD
+Sh "23" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 1
+$EndPAD
+$PAD
+Sh "25" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 1
+$EndPAD
+$PAD
+Sh "27" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 1
+$EndPAD
+$PAD
+Sh "29" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 1
+$EndPAD
+$PAD
+Sh "31" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 1
+$EndPAD
+$PAD
+Sh "33" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 1
+$EndPAD
+$PAD
+Sh "35" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 1
+$EndPAD
+$PAD
+Sh "37" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 1
+$EndPAD
+$PAD
+Sh "39" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19 1
+$EndPAD
+$PAD
+Sh "2" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19 -1
+$EndPAD
+$PAD
+Sh "4" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -17 -1
+$EndPAD
+$PAD
+Sh "6" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -15 -1
+$EndPAD
+$PAD
+Sh "8" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13 -1
+$EndPAD
+$PAD
+Sh "10" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11 -1
+$EndPAD
+$PAD
+Sh "12" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -9 -1
+$EndPAD
+$PAD
+Sh "14" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7 -1
+$EndPAD
+$PAD
+Sh "16" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5 -1
+$EndPAD
+$PAD
+Sh "18" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 -1
+$EndPAD
+$PAD
+Sh "20" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -1
+$EndPAD
+$PAD
+Sh "22" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -1
+$EndPAD
+$PAD
+Sh "24" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 -1
+$EndPAD
+$PAD
+Sh "26" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5 -1
+$EndPAD
+$PAD
+Sh "28" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7 -1
+$EndPAD
+$PAD
+Sh "30" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 9 -1
+$EndPAD
+$PAD
+Sh "32" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11 -1
+$EndPAD
+$PAD
+Sh "34" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13 -1
+$EndPAD
+$PAD
+Sh "36" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15 -1
+$EndPAD
+$PAD
+Sh "38" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 17 -1
+$EndPAD
+$PAD
+Sh "40" C 1.35 1.35 0 0 0
+Dr 0.84 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19 -1
+$EndPAD
+$ENDMODULE conn_2mm_2x20
+$EndLibrary

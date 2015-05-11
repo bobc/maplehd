@@ -1,0 +1,2326 @@
+(module pcb_proto_50x50
+ (layer F.Cu)
+ (at 0 0 0)
+ (fp_text reference ""
+  (at 0 1 0)
+  (layer F.SilkS)
+ hide
+  (effects
+   (font
+    (size 1 1)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text value VAL**
+  (at 0 -1 0)
+  (layer F.SilkS)
+ hide
+  (effects
+   (font
+    (size 1 1)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user +
+  (at -23.73 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user +
+  (at -23.73 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user -
+  (at -21.19 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user -
+  (at -21.19 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user +
+  (at 21.19 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user +
+  (at 21.19 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user -
+  (at 23.73 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user -
+  (at 23.73 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user A
+  (at -13.9699993 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user A
+  (at -13.9699993 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user B
+  (at -11.43 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user B
+  (at -11.43 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user C
+  (at -8.889999 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user C
+  (at -8.889999 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user D
+  (at -6.35 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user D
+  (at -6.35 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user E
+  (at -3.81 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user E
+  (at -3.81 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user F
+  (at 3.81 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user F
+  (at 3.81 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user G
+  (at 6.35 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user G
+  (at 6.35 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user H
+  (at 8.889999 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user H
+  (at 8.889999 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user I
+  (at 11.43 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user I
+  (at 11.43 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user J
+  (at 13.9699993 -1.6699996 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user J
+  (at 13.9699993 44.05 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 1
+  (at -17.7799988 0.870000362 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 1
+  (at 17.7799988 0.870000362 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 2
+  (at -17.7799988 3.41000032 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 2
+  (at 17.7799988 3.41000032 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 3
+  (at -17.7799988 5.95000029 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 3
+  (at 17.7799988 5.95000029 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 4
+  (at -17.7799988 8.49 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 4
+  (at 17.7799988 8.49 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 5
+  (at -17.7799988 11.0300007 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 5
+  (at 17.7799988 11.0300007 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 6
+  (at -17.7799988 13.57 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 6
+  (at 17.7799988 13.57 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 7
+  (at -17.7799988 16.11 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 7
+  (at 17.7799988 16.11 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 8
+  (at -17.7799988 18.65 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 8
+  (at 17.7799988 18.65 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 9
+  (at -17.7799988 21.19 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 9
+  (at 17.7799988 21.19 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 10
+  (at -17.7799988 23.73 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 10
+  (at 17.7799988 23.73 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 11
+  (at -17.7799988 26.27 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 11
+  (at 17.7799988 26.27 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 12
+  (at -17.7799988 28.81 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 12
+  (at 17.7799988 28.81 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 13
+  (at -17.7799988 31.35 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 13
+  (at 17.7799988 31.35 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 14
+  (at -17.7799988 33.89 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 14
+  (at 17.7799988 33.89 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 15
+  (at -17.7799988 36.43 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 15
+  (at 17.7799988 36.43 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 16
+  (at -17.7799988 38.97 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 16
+  (at 17.7799988 38.97 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 17
+  (at -17.7799988 41.51 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_text user 17
+  (at 17.7799988 41.51 0)
+  (layer F.SilkS)
+  (effects
+   (font
+    (size 2 2)
+    (thickness 0.15)
+   )
+  )
+ )
+ (fp_line
+  (start -25 -3.80999947)
+  (end -25 46.1900024)
+  (layer Dwgs.User)
+  (width 0.15)
+ )
+ (fp_line
+  (start -25 46.1900024)
+  (end 25 46.1900024)
+  (layer Dwgs.User)
+  (width 0.15)
+ )
+ (fp_line
+  (start 25 46.1900024)
+  (end 25 -3.80999947)
+  (layer Dwgs.User)
+  (width 0.15)
+ )
+ (fp_line
+  (start 25 -3.80999947)
+  (end -25 -3.80999947)
+  (layer Dwgs.User)
+  (width 0.15)
+ )
+ (pad "" smd rect
+  (at -23.73 21.19)
+  (size 0.7 40.64)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" smd rect
+  (at -21.19 21.19)
+  (size 0.7 40.64)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" smd rect
+  (at 21.19 21.19)
+  (size 0.7 40.64)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" smd rect
+  (at 23.73 21.19)
+  (size 0.7 40.64)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 0.870000362)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 0.870000362)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 0.870000362)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 3.41000032)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 3.41000032)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 3.41000032)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 5.95000029)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 5.95000029)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 5.95000029)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 8.49)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 8.49)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 8.49)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 11.0300007)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 11.0300007)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 11.0300007)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 13.57)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 13.57)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 13.57)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 16.11)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 16.11)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 16.11)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 18.65)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 18.65)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 18.65)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 21.19)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 21.19)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 21.19)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 23.73)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 23.73)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 23.73)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 26.27)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 26.27)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 26.27)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 28.81)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 28.81)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 28.81)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 31.35)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 31.35)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 31.35)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 33.89)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 33.89)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 33.89)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 36.43)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 36.43)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 36.43)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 38.97)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 38.97)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 38.97)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -23.73 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -21.19 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 21.19 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 23.73 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -13.9699993 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -11.43 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -8.889999 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -6.35 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at -3.81 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at -8.889999 41.51)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 3.81 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 6.35 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 8.889999 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 11.43 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" thru_hole circle
+  (at 13.9699993 41.51)
+  (size 1.7 1.7)
+  (drill 1)
+  (layers *.Cu B.Mask F.Mask)
+ )
+ (pad "" smd rect
+  (at 8.889999 41.51)
+  (size 10.16 0.7)
+  (drill 0)
+  (layers B.Cu B.Mask)
+ )
+)
